@@ -7,5 +7,5 @@
 - 💬 Ask me about Marvel, keeping aquariums, or philosophy
 - 📫 How to reach me: https://www.linkedin.com/in/abhitej-bokka/
 - 😄 Pronouns: he/him
-- 🐌 Fun fact: I own 5 snails and a shrimp (I have 2 fishtanks)
+- 🐌 Fun fact: I own 5 snails and a shrimp 🦐 (I have 2 fishtanks)
 

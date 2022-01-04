@@ -8,4 +8,5 @@
 - 📫 How to reach me: https://www.linkedin.com/in/abhitej-bokka/
 - 😄 Pronouns: he/him
 - 🐌 Fun fact: I own 5 snails and a shrimp 🦐 (I have 2 fishtanks)
+- 📚 Btw, I'm at Rutgers studying CS & Statistics
 

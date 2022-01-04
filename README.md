@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a JavaScript project to rate off-campus housing
+- 🔭 I’m currently working on a JavaScript project to rate off-campus housing with @adp811
 - 🌱 I’m currently learning ReactJS & Solidity
 - 👯 I’m looking to collaborate on any web3.0 projects
 - 🍩 I’m looking for help with opening up a donut shop lol

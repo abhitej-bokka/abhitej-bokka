@@ -7,10 +7,11 @@
 - 🍩 I’m looking for help with opening up a donut shop lol
 - 📚 I'm at Rutgers studying CS & Statistics
 - 💬 Ask me about Marvel, keeping aquariums, or philosophy
-- 📫 How to reach me: https://www.linkedin.com/in/abhitej-bokka/
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/abhitej-bokka/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.instagram.com/abhitej.bokka/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 - 🐌 Fun fact: I own 5 snails and a shrimp 🦐 (I have 2 fishtanks)
-- Check out my personal website: https://abhitej-bokka.github.io/
-- Check out my NFT website: https://bokka-bee-nfts.herokuapp.com/
+- Check out my personal website: <a href="https://abhitej-bokka.github.io/">![Abhitej Bokka](https://img.shields.io/badge/Abhitej_Bokka-816EFF?style=for-the-badge&logo=Three.js&logoColor=white)</a>
+- Check out my NFT website: <a href="https://bokka-bee-nfts.herokuapp.com/">![Bokka Bee NFTs](https://img.shields.io/badge/Bokka_Bee_NFTs-43B6B4?style=for-the-badge&logo=Ethereum&logoColor=white)</a>
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=abhitej-bokka&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" width="400">
@@ -18,10 +19,9 @@
 </p>
 
 
-<a href="https://abhitej-bokka.github.io/">![Abhitej Bokka](https://img.shields.io/badge/Abhitej_Bokka-816EFF?style=for-the-badge&logo=Three.js&logoColor=white)</a>
-<a href="https://bokka-bee-nfts.herokuapp.com/">![Bokka Bee NFTs](https://img.shields.io/badge/BokkaBeeNFTs-43B6B4?style=for-the-badge&logo=Ethereum&logoColor=white)</a>
 
 
-<a href="https://www.linkedin.com/in/abhitej-bokka/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://www.instagram.com/abhitej.bokka/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+
+
+
 

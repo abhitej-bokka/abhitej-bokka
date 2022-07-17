@@ -18,8 +18,8 @@
 </p>
 
 
-<a href="https://www.linkedin.com/in/abhitej-bokka/">![Abhitej Bokka](https://img.shields.io/badge/Abhitej_Bokka-816EFF?style=for-the-badge&logo=Three.js&logoColor=white)</a>
-<a href="https://www.instagram.com/abhitej.bokka/">![Bokka Bee NFTs](https://img.shields.io/badge/BokkaBeeNFTs-34EBC3?style=for-the-badge&logo=Ethereum&logoColor=white)</a>
+<a href="https://abhitej-bokka.github.io/">![Abhitej Bokka](https://img.shields.io/badge/Abhitej_Bokka-816EFF?style=for-the-badge&logo=Three.js&logoColor=white)</a>
+<a href="https://bokka-bee-nfts.herokuapp.com/">![Bokka Bee NFTs](https://img.shields.io/badge/BokkaBeeNFTs-43B6B4?style=for-the-badge&logo=Ethereum&logoColor=white)</a>
 
 
 <a href="https://www.linkedin.com/in/abhitej-bokka/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>

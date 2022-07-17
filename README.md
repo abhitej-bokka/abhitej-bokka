@@ -35,29 +35,13 @@
 <p align="center"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/abhitej-bokka/abhitej-bokka.github.io/main/assets/images/skills/java.jpg"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mathworks.com/products/matlab.html"> <img src="https://github.com/akhilvreddy/akhilvreddy/blob/main/icons8-matlab-48.png"/> </a>
-    <a href="https://www.wolfram.com/mathematica/"> <img src="https://github.com/akhilvreddy/akhilvreddy/blob/main/mathematicav0%20(1).png"/> </a> 
-    
-  
-    <a href="https://www.autodesk.com/products/autocad/overview"> <img src="https://github.com/akhilvreddy/akhilvreddy/blob/main/autocadv1.png"/> </a> 
- 
+<img src="./assets/images/skills/java.jpg" alt="Avatar" style="width:100px;height:100px;">
+
+<img src="./assets/images/skills/cp.png" alt="Avatar" style="width:100px;height:100px;">
+
+<img src="./assets/images/skills/javascript.png" alt="Avatar" style="width:100px;height:100px;">
+
+<img src="./assets/images/skills/ne.png" alt="Avatar" style="width:100px;height:100px;">
    
 </p>
 
-## 🔗 Connect with me:
-
-<p align="center">
-    <a href = "https://www.linkedin.com/in/akhilvreddy/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-    <a href = "https://twitter.com/akhilreddy77"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-    <a href = "https://www.instagram.com/akhilrn77/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-    <a href = "https://www.youtube.com/channel/UCvKZAQHKxk5GuouUpezabGQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-    <a href = "https://discord.com/users/750877899740938260"><img src="https://github.com/akhilvreddy/akhilvreddy/blob/main/discordv2.png"/></a>
-    <a href = "https://open.spotify.com/user/akhilr77?si=mZMjqUZ6Tg-0cHA6XB6rrA"><img src="https://github.com/akhilvreddy/akhilvreddy/blob/main/spotifyv1.png"/></a>
-    <a href = "https://bere.al/akhilr77"><img src="https://github.com/akhilvreddy/akhilvreddy/blob/main/berealv1.png"/></a>
-    <a href = "https://medium.com/@avr54"><img src="https://github.com/akhilvreddy/akhilvreddy/blob/main/mediumv1.png"/></a>
-  
-</p>

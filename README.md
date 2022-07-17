@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Abhitej</h1>
 
-- 👨‍💻 I’m currently working at ADP with Java & SQL
-- 🔭 I’m currently working on a JavaScript project to rate off-campus housing with @adp811
+- 👨‍💻 I’m building tech at ADP
+- 🔭 I’m working on a JavaScript project to rate off-campus housing with @adp811
 - 🌱 I’m currently learning React.js & Solidity
 - 👯 I’m looking to collaborate on any web3.0 projects
 - 🍩 I’m looking for help with opening up a donut shop lol

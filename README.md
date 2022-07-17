@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Abhitej</h1>
 
 - 🔭 I’m currently working on a JavaScript project to rate off-campus housing with @adp811
 - 🌱 I’m currently learning React.js & Solidity
@@ -12,28 +12,21 @@
 - Check out my NFT website: https://bokka-bee-nfts.herokuapp.com/
 
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Akhil</h1>
-
-I'm studying Computer Engineering at Rutgers University. I'm currently seeking internships for Spring or Summer 2023 in Software Engineering, Data Science, or other related roles. If you think I'd be a good fit for your company, please feel free to reach out to me by email or social media (links below)!
-
-I've primarily used Java, Python, and C throughout my life and am familiar with many tools and technologies. I am also a motivated individual who can quickly learn and apply brand-new concepts 
-
-<a href="mailto:avr54@scarletmail.rutgers.edu">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/akhilvreddy/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://www.instagram.com/akhilrn77/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
-<a href="https://www.instagram.com/akhilrn77/">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/abhitej-bokka/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.instagram.com/abhitej.bokka/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
 <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=akhilvreddy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" width="400">
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=akhilvreddy&theme=highcontrast&hide_border=true" width="400" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=abhitej-bokka&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" width="400">
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=abhitej-bokka&theme=highcontrast&hide_border=true" width="400" /></a>
 </p>
   
  ### My Tech Stack:  
- <a href="https://www.instagram.com/akhilrn77/">![Medium](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</a>
- <a href="https://www.instagram.com/akhilrn77/">![Medium](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)</a>
- <a href="https://www.instagram.com/akhilrn77/">![Medium](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</a> 
- <a href="https://www.instagram.com/akhilrn77/">![Medium](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)</a>
- <a href="https://www.instagram.com/akhilrn77/">![Medium](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
+![Medium](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)</a>
+![Medium](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</a> 
+![Medium](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)</a>
+![Medium](https://img.shields.io/badge/R-00599C?style=for-the-badge&logo=c&logoColor=white)</a>
+![Medium](https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=c&logoColor=white)</a>
+
  
  
 <!--  

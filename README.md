@@ -9,8 +9,7 @@
 - 💬 Ask me about Marvel, keeping aquariums, or philosophy
 
 - 🐌 Fun fact: I own 5 snails and a shrimp 🦐 (I have 2 fishtanks)
-- Check out my personal website: <a href="https://abhitej-bokka.github.io/">![Abhitej Bokka](https://img.shields.io/badge/Abhitej_Bokka-816EFF?style=for-the-badge&logo=Three.js&logoColor=white)</a>
-- Check out my NFT website: <a href="https://bokka-bee-nfts.herokuapp.com/">![Bokka Bee NFTs](https://img.shields.io/badge/Bokka_Bee_NFTs-43B6B4?style=for-the-badge&logo=Ethereum&logoColor=white)</a>
+- Check out my personal & NFT website: <a href="https://abhitej-bokka.github.io/">![Abhitej Bokka](https://img.shields.io/badge/Abhitej_Bokka-816EFF?style=for-the-badge&logo=Three.js&logoColor=white)</a> <a href="https://bokka-bee-nfts.herokuapp.com/">![Bokka Bee NFTs](https://img.shields.io/badge/Bokka_Bee_NFTs-43B6B4?style=for-the-badge&logo=Ethereum&logoColor=white)</a>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/abhitej-bokka/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://www.instagram.com/abhitej.bokka/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
 <p>

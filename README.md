@@ -22,14 +22,14 @@
   
  ### My Tech Stack:  
 ![Medium](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)</a>
-![Medium](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</a> 
 ![Medium](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)</a>
-![Medium](https://img.shields.io/badge/R-00599C?style=for-the-badge&logo=c&logoColor=white)</a>
-![Medium](https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=c&logoColor=white)</a>
+![Medium](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</a>
+![Medium](https://img.shields.io/badge/R-00599C?style=for-the-badge&logo=r&logoColor=white)</a>
+![Medium](https://img.shields.io/badge/MongoDB-00599C?style=for-the-badge&logo=mongodb&logoColor=white)</a>
+![Medium](https://img.shields.io/badge/Git-00599C?style=for-the-badge&logo=git&logoColor=white)</a>
+![Medium](https://img.shields.io/badge/Solidity-00599C?style=for-the-badge&logo=solidity&logoColor=white)</a>
 
- 
- 
-<!--  
+
 ## 🚀 Languages and Tools:
 
 <p align="center"> 

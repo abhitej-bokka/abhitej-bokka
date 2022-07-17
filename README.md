@@ -20,28 +20,4 @@
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=abhitej-bokka&theme=highcontrast&hide_border=true" width="400" /></a>
 </p>
   
- ### My Tech Stack:  
-![Medium](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)</a>
-![Medium](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)</a>
-![Medium](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</a>
-![Medium](https://img.shields.io/badge/R-00599C?style=for-the-badge&logo=r&logoColor=white)</a>
-![Medium](https://img.shields.io/badge/MongoDB-00599C?style=for-the-badge&logo=mongodb&logoColor=white)</a>
-![Medium](https://img.shields.io/badge/Git-00599C?style=for-the-badge&logo=git&logoColor=white)</a>
-![Medium](https://img.shields.io/badge/Solidity-00599C?style=for-the-badge&logo=solidity&logoColor=white)</a>
-
-
-## 🚀 Languages and Tools:
-
-<p align="center"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/abhitej-bokka/abhitej-bokka.github.io/main/assets/images/skills/java.jpg"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-<img src="./assets/images/skills/java.jpg" alt="Avatar" style="width:100px;height:100px;">
-
-<img src="./assets/images/skills/cp.png" alt="Avatar" style="width:100px;height:100px;">
-
-<img src="./assets/images/skills/javascript.png" alt="Avatar" style="width:100px;height:100px;">
-
-<img src="./assets/images/skills/ne.png" alt="Avatar" style="width:100px;height:100px;">
-   
-</p>
 

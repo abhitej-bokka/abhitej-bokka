@@ -1,11 +1,12 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Abhitej</h1>
 
-- 👨‍💻 I’m building really cool technology at ADP
+- 👨‍💻 I’m building really cool technology at Yahoo
 - 🔭 I’m working on a JavaScript project to rate off-campus housing with @adp811
-- 🌱 I’m currently learning React.js & Solidity
+- 🌱 I’m currently learning Python & AWS
 - 👯 I’m looking to collaborate on any web3.0 projects
 - 🍩 I’m looking for help with opening up a donut shop lol
-- 📚 I'm at Rutgers studying CS & Statistics
+- 📚 I'm at Rutgers studying CS & Stat
+- 📫 Just DM me on LinkedIn if you want to get in contact
 - 💬 Ask me about Marvel, keeping aquariums, or philosophy
 
 - 🐌 Fun fact: I own 5 snails and a shrimp 🦐 (I have 2 fishtanks)

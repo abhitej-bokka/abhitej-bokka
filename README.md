@@ -21,7 +21,7 @@
   
 </p>
 
-# 🔍 Query-Focused EHR Summarization: Dataset, Task, and ClinicalBERT Model
+# 🔍 Query-Focused EHR Summarization: Dataset, Task and Model
 
 ## 📌 Summary
 This pull request introduces a complete pipeline for **Query-Focused EHR Summarization**, based on the paper:  

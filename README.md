@@ -20,3 +20,40 @@
 <a href="https://www.instagram.com/abhitej.bokka/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
   
 </p>
+# 🔍 Query-Focused EHR Summarization: Dataset, Task, and ClinicalBERT Model
+
+## 📌 Summary
+This pull request introduces a complete pipeline for **Query-Focused EHR Summarization**, based on the paper:  
+[*Query-Focused EHR Summarization to Aid Imaging Diagnosis*](https://arxiv.org/abs/2004.04645)
+
+### What's Included:
+-  **New Dataset**: `EHRSummarizationDataset`  
+  Inherits from `SampleEHRDataset` and processes notes into sentence-level inputs labeled using future ICD codes within a 30-day window.
+-  **New Task**: `ehr_summarization_task`  
+  A PyHealth-compatible task that returns sentence-level relevance samples.
+-  **New Model**: `ClinicalBertSentenceClassifier`  
+  A Huggingface Bio_ClinicalBERT-based classifier that uses CLS or average pooling to predict sentence relevance.
+-  **New Unit Tests**:  
+  Validates label generation, dataset iteration, and model forward pass behavior.
+
+## 📂 Files Added
+- `pyhealth/datasets/ehr_summarization.py`
+- `pyhealth/tasks/ehr_summarization_task.py`
+- `pyhealth/models/clinical_bert.py`
+- `pyhealth/unittests/test_ehr_summarization.py`
+
+## 🚀 Features
+- SpaCy-based sentence tokenization
+- Distant supervision using future ICD codes
+- Plug-and-play with existing PyHealth infrastructure
+- Reproducible and testable with clear unit tests
+
+## 🧪 How to Run Tests
+```bash
+PYTHONPATH=. pytest pyhealth/unittests/test_ehr_summarization.py
+```
+
+🙌 Authors
+Abhitej Bokka (abhitej2) ([@abhitej-bokka](https://github.com/abhitej-bokka))
+Liam Shen (liams4) ([@liamshen10](https://github.com/liamshen10))
+

@@ -20,6 +20,7 @@
 <a href="https://www.instagram.com/abhitej.bokka/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
   
 </p>
+
 # 🔍 Query-Focused EHR Summarization: Dataset, Task, and ClinicalBERT Model
 
 ## 📌 Summary
@@ -53,7 +54,8 @@ This pull request introduces a complete pipeline for **Query-Focused EHR Summari
 PYTHONPATH=. pytest pyhealth/unittests/test_ehr_summarization.py
 ```
 
-🙌 Authors
+## 🙌 Authors
 Abhitej Bokka (abhitej2) ([@abhitej-bokka](https://github.com/abhitej-bokka))
+
 Liam Shen (liams4) ([@liamshen10](https://github.com/liamshen10))
 

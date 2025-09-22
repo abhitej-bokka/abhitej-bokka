@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Abhitej</h1>
 
 - 👨‍💻 I’m building cool technology at Chewy
-- 🔭 I’m working on a learning platform with <a href="https://github.com/sirpravnp"> sirpravnp/a> called: <a href="https://sophein.com/">Sophein/a>
+- 🔭 I’m working on a learning platform with <a href="https://github.com/sirpravnp">@sirpravnp</a> called: <a href="https://sophein.com/">Sophein</a>
 - 🌱 I’m currently learning Python, SQL & AWS
 - 👯 I’m looking to collaborate on any web3.0 projects
 - 🍩 I’m looking for help with opening up a donut shop lol

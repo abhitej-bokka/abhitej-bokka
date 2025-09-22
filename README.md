@@ -1,14 +1,16 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Abhitej</h1>
 
-- 👨‍💻 I’m building cool technology at Chewy
+- 👨‍💻 I’m building cool technology at Chewy & studying Reinforcement Learning at MIT
+- 💻 I’ve built really cool tech at Yahoo & ADP
 - 🔭 I’m working on a learning platform with <a href="https://github.com/sirpravnp">@sirpravnp</a> called: <a href="https://sophein.com/">Sophein</a>
-- 🌱 I’m currently learning Python, SQL & AWS
+- 🌱 I work with Python, SQL, AWS & Snowflake
+
 - 👯 I’m looking to collaborate on any web3.0 projects
 - 🍩 I’m looking for help with opening up a donut shop lol
-- 📚 I'm a Rutgers alum and I studied Computer Science & Data Science
+- 📚 I studied Computer Science & Data Science at UIUC & Rutgers University
 - 📫 DM me on LinkedIn if you want to get in contact
+  
 - 💬 Ask me about Marvel, keeping aquariums, or philosophy
-
 - 🐌 Fun fact: I own 5 snails and a shrimp 🦐 (I have 2 fishtanks)
 - Check out my websites & social media: 
 
